@@ -47,12 +47,22 @@ body {
   background-color: #8ac776;
     border-radius: 5px;
     padding: 3px 5px 3px 5px;
+    font-size: 1.1rem;
+    /*color for tomorrow: #e3be36;;*/
+}
+
+.participants {
+  background-color: white;
+  color: #f0ca40;
+    border-radius: 5px;
+    padding: 3px 5px 3px 5px;
+    font-size: 1.1rem;
     /*color for tomorrow: #e3be36;;*/
 }
 
 .brand {
   font-weight: bold;
-  font-style: italic;
+  /*font-style: italic;*/
 }
 
 .btn {
