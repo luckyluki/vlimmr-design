@@ -87,3 +87,11 @@ body {
 /*  border: 1px solid;
   border-radius: 5px;*/
 }
+
+#desc {
+      background-color: #fafaf6;
+    border-radius: 5px;
+    color: black;
+    font-size: 0.9rem;
+    padding: 10px;
+}
